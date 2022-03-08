@@ -1,0 +1,6 @@
+Data Peserta Jabar Coding Camp Golang
+1. Nama				: Muhamad Rafli Nur Ikhsan 
+2. Email			: bonottabina@gmail.com
+3. Sistem Operasi yang digunakan: Windows
+4. Akun Gitlab/Github		: Dudedu11
+5. Akun Telegram		: 087714670600
